@@ -1,0 +1,4 @@
+git pull         # get latest first
+git add .        # stage your edits
+git commit -m "fix: update job form validation"
+git push         # send to GitHub
